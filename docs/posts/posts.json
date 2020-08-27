@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-08-27T17:34:14-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/20200827_second post/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Cara Wohnsigl",
+        "url": "cmw.works"
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-27T17:39:45-04:00",
+    "input_file": "second.utf8.md"
   }
 ]
