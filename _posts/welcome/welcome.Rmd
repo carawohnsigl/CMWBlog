@@ -1,7 +1,7 @@
 ---
 title: "What do I understand cognition to be?"
 description: |
-  
+pagetitle: "What do I understand cognition to be?"
 
 author:
   - name: Cara Wohnsigl 
@@ -21,7 +21,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
-
 
 I understand cognitive psychology to be the study of internal mental processes, such as perception, memory, thinking, or learning. I think that cognition is about understanding what happens between the point at which the body/brain receives external stimuli and when it outputs a response. When I picture it, I imagine cognition to be a sort of filter that sends incoming stimuli to a tree diagram of possible behavioral outcomes. Everyone’s “filter” (or cognitive process) is slightly altered based on their own personal experiences, so that the same stimuli can lead to a variety of different responses in different people.
 
