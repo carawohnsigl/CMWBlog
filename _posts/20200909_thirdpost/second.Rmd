@@ -1,0 +1,43 @@
+---
+title: "Tuning Forks of the Same Pitch"
+description: |
+  Module 1, Week 2
+pagetitle: "Tuning Forks of the Same Pitch"
+
+author:
+  - name: Cara Wohnsigl 
+    url: cmw.works
+    affiliation: 
+    affiliation_url: 
+date: 08-27-2020
+bibliography: mod1week2.bib
+csl: apa.csl
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+The readings this week had me considering the connections between multiple-trace theories of memory and the usefulness of a semantic search engine. As described in “Schema Abstraction” in a Multiple-Trace Memory Model by Douglas L. Hintzman [@hintzman_schema_nodate] “every experience is assumed to be represented internally as an active configuration of primitive properties,” and “memory trace is a record of an experience or episode, and so it preserves configuration of primitive properties.” Our minds, at least in terms of multiple-trace theories, aren’t much different from a sophisticated search engine.  Our “primary memory (or “active representation of current experience”) serves as the search term, and secondary memory (or “vast pool of largely dormant memory traces”) serves as the searchable information. 
+
+The way that a semantic search engine might operate reminds me of the way that Hintzman was considering his own work in comparison with old exemplars. He writes, 
+
+>Thus far, the simulation confirms Elio and Anderson's (1981) conclusion that exemplar theories do not predict their generalization result. A different picture emerges, however, when the echo-probe conversion process is allowed to operate. On both Echo 2 and Echo 3, classification in the generalize condition was better than in the control (zs = 5.53 and 7.95, respectively). The reason is that echo-probe conversion allows activated traces to influence one another, and they do so according to their similarity. [@hintzman_schema_nodate]
+
+Aujla et al. in “The Semantic Librarian: A search engine built from vector-space models of semantics” [@aujla_semantic_2019] describes the flaws in keyword matching: “Keyword matching can lead to problems in finding documents that use different words to express the same idea or misconstrue relationships between docs that use the same words to express different ideas.” In some ways, I think that “activated traces” influencing one another is similar to a semantic search engine because the “target document” is retrieved “on the basis of a match to the semantic relationship rather than particular words in a query.” The way that the search term and searched information have to mutually recognize similarities within each other is reminiscent of the idea of activated traces influencing each other. Hintzman also writes, “There is another way in which traces might interact...The idea is that activation among similar traces might be mutually reinforcing, much as is activity among tuning forks of the same pitch.” I was thinking about the poeticism of this while trying to understand how a semantic search engine might work better than a keyword search engine. The semantic search engine feels more akin to “activity among tuning forks of the same pitch,” [@hintzman_schema_nodate] while keyword search engine seems a little bit more like blunt force. It must match exactly, with no room for the natural nuance that comes with academic writing (and also just being human). 
+
+Hintzman also writes:
+
+>The key to understanding memory organization, Schank argued, is understanding how a memory stored in one structure (e.g., a structure concerning airplanes) can remind us of another memory that should be stored in a different structure (e.g., one concerning restaurants). He proposed that memory is continually reorganizing itself on demand, by creating, modifying and abandoning abstract structures that serve to cross-classify experiences in various ways. [@hintzman_schema_nodate]
+
+I find this to be one of the more satisfying pictures of memory organization, and can see a semantic search engine might be able to work in conjunction with a system like this. 
+
+
