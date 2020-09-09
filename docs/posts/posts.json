@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/20200909_thirdpost/",
+    "title": "Tuning Forks of the Same Pitch",
+    "description": "Module 1, Week 2",
+    "author": [
+      {
+        "name": "Cara Wohnsigl",
+        "url": "cmw.works"
+      }
+    ],
+    "date": "2020-09-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-09T09:33:24-04:00",
+    "input_file": "second.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "What do I understand cognition to be?",
     "description": {},
@@ -29,22 +45,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-09-03T16:55:10-04:00",
-    "input_file": "second.utf8.md"
-  },
-  {
-    "path": "posts/20200909_thirdpost/",
-    "title": "Tuning Forks of the Same Pitch",
-    "description": "Module 1, Week 2",
-    "author": [
-      {
-        "name": "Cara Wohnsigl",
-        "url": "cmw.works"
-      }
-    ],
-    "date": "2020-08-27",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-09-09T09:32:47-04:00",
     "input_file": "second.utf8.md"
   }
 ]

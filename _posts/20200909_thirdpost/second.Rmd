@@ -9,7 +9,7 @@ author:
     url: cmw.works
     affiliation: 
     affiliation_url: 
-date: 08-27-2020
+date: 09-09-2020
 bibliography: mod1week2.bib
 csl: apa.csl
 output:
